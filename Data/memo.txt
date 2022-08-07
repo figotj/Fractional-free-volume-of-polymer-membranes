@@ -1,0 +1,1 @@
+FFV_homopolymer_polyamide.csv contains the SMILES and FFV of 6589 homopolymers and 1457 polyamides. FFVs are obtained from MD simulations. 
