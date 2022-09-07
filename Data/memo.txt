@@ -1,1 +1,2 @@
-"FFV_homopolymer.csv" and "FFV_polyamide.csv" contain the SMILES and FFV of 6589 homopolymers and 1457 polyamides, respectively. FFVs are obtained from MD simulations.
+"FFV_homopolymer.csv" and "FFV_polyamides.csv" contain the SMILES and FFV of 6589 homopolymers and 1457 polyamides, respectively. FFVs are obtained from MD simulations.
+"All.txt" contains the smiles of all homopolymers, polyamides, and polymers from the reference "Revisiting group contribution theory for estimating fractional free volume of microporous polymer membranes"
